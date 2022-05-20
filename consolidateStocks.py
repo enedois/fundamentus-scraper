@@ -43,3 +43,6 @@ def consolidate():
             file.close()
         except:
            print("Erro: "+papel)
+
+
+#consolidate()
